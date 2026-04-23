@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+
+h1{
+    text-align: center;
+    background-color: rgb(136, 230, 54);
+    color: blue;
+    border-radius: 10px;
+}
+
